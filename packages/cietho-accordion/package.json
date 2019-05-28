@@ -5,7 +5,7 @@
   "author": "Thomas Cieslar <thomas@cieslar.io>",
   "license": "MIT",
   "private": false,
-  "repository": "https://github.com/cietho/cietho/tree/master/packages/two-accordion",
+  "repository": "https://github.com/cietho/cietho/tree/master/packages/cietho-accordion",
   "scripts": {
     "test": "jest"
   },
