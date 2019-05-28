@@ -1,0 +1,17 @@
+{
+  "name": "@cietho/carousel",
+  "description": "A basic carousel component",
+  "version": "0.0.1",
+  "author": "Thomas Cieslar <thomas@cieslar.io>",
+  "license": "MIT",
+  "private": false,
+  "repository": "https://github.com/cietho/cietho/tree/master/packages/cietho-carousel",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.13",
+    "jest": "^24.8.0",
+    "ts-jest": "^24.0.2"
+  }
+}
