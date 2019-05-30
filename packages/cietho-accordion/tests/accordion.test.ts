@@ -1,7 +1,7 @@
 describe('accordion', () => {
     test.todo('should have default options');
-    test.todo('should be able to overwrite all options');
-    test.todo('should be able to overwrite options partially');
+    test.todo('should be able to override all options');
+    test.todo('should be able to override options partially');
 
     describe('functions and callbacks', () => {
         describe('open()', () => {
