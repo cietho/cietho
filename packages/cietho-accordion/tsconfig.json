@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "umd",
+    "lib": [
+      "dom",
+      "esnext"
+    ],
+    "strict": true,
+    "esModuleInterop": true
+  }
+}
